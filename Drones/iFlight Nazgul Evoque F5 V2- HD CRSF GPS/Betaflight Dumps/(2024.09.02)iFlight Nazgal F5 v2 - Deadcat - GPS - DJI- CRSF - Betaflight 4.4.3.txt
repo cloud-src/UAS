@@ -1,14 +1,5 @@
-# 
-
-# dump
-
 # version
 # Betaflight / STM32F7X2 (S7X2) 4.4.3 Jun 25 2024 / 18:04:46 (738127e7e) MSP API: 1.45
-
-# config: YES
-
-# start the command batch
-batch start
 
 board_name IFLIGHT_BLITZ_F722
 manufacturer_id IFRC
